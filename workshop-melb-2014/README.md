@@ -6,6 +6,10 @@ talks from the july 2014 workshop
 
    A talk introducing the website [SciRate](https://scirate.com).
 
+ * [NeCTAR](talks/OSW NeCTAR links.pdf) - Clare Sloggett.
+   
+   A talk regarding the [NeCTAR Research Cloud](http://www.nectar.org.au).
+
 
 ***
 
