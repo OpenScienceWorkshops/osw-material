@@ -16,6 +16,12 @@ talks from the july 2014 workshop
    organisation that exists to provide training for "lab skills for scientific
    computing" for scientists.
 
+ * Lens and eLife - Ian Mulvany.
+ 
+    Relevant links:
+      - [eLife Lens](http://lens.elifesciences.org/)
+      - [OA Sandbox](http://oa-sandbox.org/)
+
 ***
 
 there's a [summary](https://github.com/OpenScienceWorkshops/osw-material/wiki/Summary-of-the-July-2014-Melbourne-Open-Science-Workshop) of the workshop on the [wiki](https://github.com/OpenScienceWorkshops/osw-material/wiki)
