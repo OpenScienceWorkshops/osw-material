@@ -8,6 +8,10 @@ talks from the july 2014 workshop
 
    A talk introducing the website [SciRate](https://scirate.com).
 
+ * [Authorea](talks/Andrea-Authorea.pdf) - [Andrea Bedini](http://andreabedini.com/).
+
+   A talk introducing the website [Authorea](https://authorea.com).
+
  * [NeCTAR](talks/OSW NeCTAR links.pdf) - Clare Sloggett.
    
    A talk regarding the [NeCTAR Research Cloud](http://www.nectar.org.au).
